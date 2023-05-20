@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34439ba42298e6e1eb82dc5755bca6b1, type: 3}
+  m_Name: Unit - 19
+  m_EditorClassIdentifier: 
+  name: Palm Tree
+  id: 18
+  _status: 1
+  rewardMoney: 1600000
+  rewardTime: 2.5
+  _price: 7.5e+10
+  sprite: {fileID: 21300000, guid: 55fd1fdb870b4919b5f6bc7e56fcabd8, type: 3}
+  lvlText: 0
+  cashValue: 3.55
+  OTKValue: 400

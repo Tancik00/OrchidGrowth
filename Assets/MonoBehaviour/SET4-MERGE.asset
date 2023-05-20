@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352817a5044e702799fbbd98bb5078d9, type: 3}
+  m_Name: "SET4-MERGE"
+  m_EditorClassIdentifier: 
+  TYPE: 3
+  ACHIEVEMENTS:
+  - {fileID: 11400000, guid: a2799662c4db406ca2380d5ffd54267f, type: 2}
+  - {fileID: 11400000, guid: c07768ec41c24547bbecc140e56e096c, type: 2}
+  - {fileID: 11400000, guid: 418f1c44090e456a91d412aa0a4676fd, type: 2}

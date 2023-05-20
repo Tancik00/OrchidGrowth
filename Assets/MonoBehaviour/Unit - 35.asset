@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34439ba42298e6e1eb82dc5755bca6b1, type: 3}
+  m_Name: Unit - 35
+  m_EditorClassIdentifier: 
+  name: Fruity Maple
+  id: 34
+  _status: 1
+  rewardMoney: 1.764e+11
+  rewardTime: 2.5
+  _price: 5.17e+18
+  sprite: {fileID: 21300000, guid: 090b7e6d013e4f1b9eff5f5d84f35b76, type: 3}
+  lvlText: 0
+  cashValue: 1.19
+  OTKValue: 200

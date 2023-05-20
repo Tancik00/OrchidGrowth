@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352817a5044e702799fbbd98bb5078d9, type: 3}
+  m_Name: "SET3-BUY"
+  m_EditorClassIdentifier: 
+  TYPE: 2
+  ACHIEVEMENTS:
+  - {fileID: 11400000, guid: e256e45fec534aadb6d3b868e890e411, type: 2}
+  - {fileID: 11400000, guid: 8e906ce682474e55b9d868fd07de864f, type: 2}
+  - {fileID: 11400000, guid: be3d08a5b26245efb27bd4b112163ec0, type: 2}

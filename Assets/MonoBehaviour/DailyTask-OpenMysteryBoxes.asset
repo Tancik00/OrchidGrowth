@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3042d65e1d6f64454b80c7dc69e2d12e, type: 3}
+  m_Name: DailyTask-OpenMysteryBoxes
+  m_EditorClassIdentifier: 
+  dailyTaskType: 4
+  taskName: Open 10 Mystery Boxes
+  taskSprite: {fileID: 21300000, guid: 2d92004631fb4674a0b9da57ce9ce21a, type: 3}
+  taskTarget: 10

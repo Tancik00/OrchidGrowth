@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352817a5044e702799fbbd98bb5078d9, type: 3}
+  m_Name: "SET7-OPENMYSTERY"
+  m_EditorClassIdentifier: 
+  TYPE: 6
+  ACHIEVEMENTS:
+  - {fileID: 11400000, guid: 49172b26a51a407db356c4775811a27b, type: 2}
+  - {fileID: 11400000, guid: 2b686648f87f4ef58207331c8e5cff2c, type: 2}
+  - {fileID: 11400000, guid: 5a5a9ccdb9b44ef982fd51d74ae767c8, type: 2}

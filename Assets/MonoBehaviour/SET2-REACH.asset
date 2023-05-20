@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352817a5044e702799fbbd98bb5078d9, type: 3}
+  m_Name: "SET2-REACH"
+  m_EditorClassIdentifier: 
+  TYPE: 1
+  ACHIEVEMENTS:
+  - {fileID: 11400000, guid: b40fa54b89ae4f6dadb74001b9d156df, type: 2}
+  - {fileID: 11400000, guid: 46c6ed7a65b24e20815d8a29b8073422, type: 2}
+  - {fileID: 11400000, guid: 6c2798d48f7842218d79e9db96e6a9ce, type: 2}

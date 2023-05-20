@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34439ba42298e6e1eb82dc5755bca6b1, type: 3}
+  m_Name: Unit - 21
+  m_EditorClassIdentifier: 
+  name: Christmas Tree
+  id: 20
+  _status: 1
+  rewardMoney: 7500000
+  rewardTime: 2.5
+  _price: 6.38e+11
+  sprite: {fileID: 21300000, guid: 16b4d62689b24ca7acb66d420d934c8b, type: 3}
+  lvlText: 0
+  cashValue: 3.18
+  OTKValue: 300

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 380836803d27e1698c84271cb1d8ffa3, type: 3}
+  m_Name: 40
+  m_EditorClassIdentifier: 
+  ID: 40
+  TYPE: 7
+  NAME: WATCH 437 ADS
+  DESCRIPTION: 
+  TARGET: 437
+  REWARD: 0

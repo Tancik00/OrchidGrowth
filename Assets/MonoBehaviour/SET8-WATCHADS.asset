@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352817a5044e702799fbbd98bb5078d9, type: 3}
+  m_Name: SET8-WATCHADS
+  m_EditorClassIdentifier: 
+  TYPE: 7
+  ACHIEVEMENTS:
+  - {fileID: 11400000, guid: 5b34253b2733845edbb39d1af6f36ddf, type: 2}
+  - {fileID: 11400000, guid: 3e925eb7e11ff468fa218bcea267a9d1, type: 2}
+  - {fileID: 11400000, guid: 48b8b8ec168d5417eb4e8dd3733ce760, type: 2}
+  - {fileID: 11400000, guid: e4318a14e973b4377866117161745a2d, type: 2}
+  - {fileID: 11400000, guid: aafbbe4ffefae4be18034a52f1a9d584, type: 2}
+  - {fileID: 11400000, guid: 5fff8fb1e9b7a48489ed35aaa1c32f62, type: 2}
+  - {fileID: 11400000, guid: 8b898e62ff5e34b8c814d6e0b8b53989, type: 2}
+  - {fileID: 11400000, guid: 0971144843b4a41a0b930b6134b9dccb, type: 2}
+  - {fileID: 11400000, guid: d53a47f75de2643b28b87b9bd2559be5, type: 2}
+  - {fileID: 11400000, guid: 6aad9320350034e538aad33c95beb54d, type: 2}
+  - {fileID: 11400000, guid: 02b6dbefa0b5244049d66d2fcc83628a, type: 2}
+  - {fileID: 11400000, guid: e993ab9aef36c453eab969050c7ef7a0, type: 2}
+  - {fileID: 11400000, guid: b3eb0f6ac953442d88acbe41031758dd, type: 2}
+  - {fileID: 11400000, guid: 5ca54082ef3994c21a0e94f3e0f966f0, type: 2}
+  - {fileID: 11400000, guid: 2fb5f0251deea4e2bbf71653597204e3, type: 2}
+  - {fileID: 11400000, guid: 1724925f0f190459ebea4199ddc544cb, type: 2}
+  - {fileID: 11400000, guid: 3bfc9a29ca69240d2adec48e39a75182, type: 2}
+  - {fileID: 11400000, guid: 1f40c8e086564479ea9169793f0338e3, type: 2}
+  - {fileID: 11400000, guid: d4d12e2236acb4e57b5cd87e856dd4ab, type: 2}

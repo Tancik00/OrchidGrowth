@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328661126660",
+    "firebase_url": "https://orchid-growth-9a209.firebaseio.com",
+    "project_id": "orchid-growth-9a209",
+    "storage_bucket": "orchid-growth-9a209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328661126660:android:bd058c7e3074b5ebabaf51",
+        "android_client_info": {
+          "package_name": "com.altosan.orchid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328661126660-naggpkal9m8166b5f4pcvhi8m98q1d21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPDBhvbnhMFpDAZY5IZ5tt4ZZ9NDNnuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328661126660-naggpkal9m8166b5f4pcvhi8m98q1d21.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328661126660-uiu2ua6ep1b51p5f63b2nmodhq2qa6js.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.altosan.orchid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

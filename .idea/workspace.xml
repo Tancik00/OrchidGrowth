@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bfe2786-7313-4608-bb76-6fa7ced2c34f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pHeWToiqWwRTD3TEhpv54Qg4wX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bfe2786-7313-4608-bb76-6fa7ced2c34f" name="Default Changelist" comment="" />
+      <created>1614844477206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614844477206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="408" key="IDE.errors.dialog" timestamp="1615364181279">
+      <screen x="0" y="25" width="2560" height="1323" />
+    </state>
+    <state x="698" y="408" key="IDE.errors.dialog/0.25.2560.1323@0.25.2560.1323" timestamp="1615364181279" />
+    <state x="1245" y="298" key="SettingsEditor" timestamp="1615380513762">
+      <screen x="0" y="25" width="2560" height="1317" />
+    </state>
+    <state x="1245" y="298" key="SettingsEditor/0.25.2560.1317@0.25.2560.1317" timestamp="1615380513762" />
+  </component>
+</project>
